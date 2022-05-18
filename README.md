@@ -10,7 +10,7 @@ kojima je moguće opisati gustoću frekvencija verižnih indeksa te pomoću tih 
 predviđa buduće kretanje. Naknadno se hipoteza testira te pronalazi distribucija koja daje 
 najmanje odstupanje od stvarnih podataka.
 
-##Summary
+## Summary
 
 This paper provides an insight into statistical analysis on a real example of cryptocurrency 
 analysis. Descriptive statistical analysis is done first to show central tendency, volatility and 
